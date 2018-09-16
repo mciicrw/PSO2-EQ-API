@@ -29,21 +29,6 @@ Catch: Little Meduna
 Catch: Empty Can
 Catch: Tundra Clione
 
-[FQuest] Defeat: Biol Meduna
-[FQuest] Defeat: Oceanids
-[FQuest] Defeat: Vid Gilos
-[Normal] Collect: El Ahda Wings II
-[Normal] Defeat: Garongo II
-[Normal] Defeat: Ghastle Dohr
-[Hard] Collect: Windira Scales I
-[Hard] Run: Codotta Idetta Sub.
-[VHard] Defeat: Dirandal
-[VHard] Run: Polluter Destruction I
-[SHard] Defeat: Train Ghidoran
-[SHard] Collect: Sharp Garongo Claws
-Catch: Empty Can
-Catch: Tundra Clione
-
 [FQuest] Defeat: Anushi-zagri
 [FQuest] Defeat: Gigur Gunne-gam
 [FQuest] Defeat: Kuronites
@@ -58,6 +43,21 @@ Catch: Tundra Clione
 Harvest: Ruins Grapes
 Harvest: Sanctum Radish
 [BQuest] Run: Buster Quest III
+
+[FQuest] Defeat: Nepto Cassadora
+[FQuest] Defeat: Oceanids
+[FQuest] Defeat: Rheo Madullard
+[Normal] Collect: Nordiran Tails II
+[Normal] Run: Tokyo Exploration
+[Hard] Defeat: Rockbear I
+[Hard] Run: Subdue Caterdra'nsa
+[VHard] Collect: Fangulfur Claws II
+[VHard] Defeat: Gilnas I
+[SHard] Collect: Blumegalla Flowers
+[SHard] Run: Volcanic Caverns Exploration
+Harvest: Marbled Meat
+Catch: Caves Mussels
+[BQuest] Defeat: Misil Ghasud
 
 [FQuest] Defeat: Guar Zigmorde
 [FQuest] Defeat: Kuronites
