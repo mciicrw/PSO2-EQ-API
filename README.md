@@ -1,6 +1,6 @@
 # PSO2 EQ API
 
-API with the latest EQ information from [@pso2_emg_hour](http://twitter.com/pso2_emg_hour). Used on [Weeb Bot](http://github.com/Kxze/WeebBot-v2).
+API with the latest EQ information from [@pso2_emg_hour](http://twitter.com/pso2_emg_hour). Used on [Weeb Bot](http://github.com/Kxze/WeebBot-v2) and [Xiera](http://github.com/mciicrw/Xiera).
 
 ## Reference
 
