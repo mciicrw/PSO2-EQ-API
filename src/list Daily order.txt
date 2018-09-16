@@ -1,0 +1,1506 @@
+            [6-5-2018]
+[FQuest] Defeat: Blu Ringahda
+[FQuest] Defeat: Jagd Dingell
+[FQuest] Defeat: Mechs
+[Normal] Collect: Sil Dinian Scales I
+[Normal] Run: Facility Exploration
+[Hard] Defeat: U.F.O
+[Hard] Run: Lillipa Marathon H
+[VHard] Defeat: Goronzoran
+[VHard] Collect: Aginis Tail Feathers II
+[SHard] Collect: Talobecko Beaks
+[SHard] Run: Sub. Tunnels Exploration
+Catch: Coast Clam
+Catch: Little Meduna
+[BQuest] Run: Buster Quest II
+
+[FQuest] Defeat: Biol Meduna
+[FQuest] Defeat: Oceanids
+[FQuest] Defeat: Vid Gilos
+[Normal] Collect: El Ahda Wings II
+[Normal] Defeat: Garongo II
+[Normal] Defeat: Ghastle Dohr
+[Hard] Collect: Windira Scales I
+[Hard] Run: Codotta Idetta Sub.
+[VHard] Defeat: Dirandal
+[VHard] Run: Polluter Destruction I
+[SHard] Defeat: Train Ghidoran
+[SHard] Collect: Sharp Garongo Claws
+Catch: Empty Can
+Catch: Tundra Clione
+
+[FQuest] Defeat: Biol Meduna
+[FQuest] Defeat: Oceanids
+[FQuest] Defeat: Vid Gilos
+[Normal] Collect: El Ahda Wings II
+[Normal] Defeat: Garongo II
+[Normal] Defeat: Ghastle Dohr
+[Hard] Collect: Windira Scales I
+[Hard] Run: Codotta Idetta Sub.
+[VHard] Defeat: Dirandal
+[VHard] Run: Polluter Destruction I
+[SHard] Defeat: Train Ghidoran
+[SHard] Collect: Sharp Garongo Claws
+Catch: Empty Can
+Catch: Tundra Clione
+
+[FQuest] Defeat: Anushi-zagri
+[FQuest] Defeat: Gigur Gunne-gam
+[FQuest] Defeat: Kuronites
+[Normal] Defeat: Lanz Vareda
+[Normal] Run: Shironia Exploration
+[Hard] Defeat: Vegas Illusia I
+[Hard] Collect: Fordoran Manes I
+[VHard] Collect: Cyclonehda Horns II
+[VHard] Run: Quarry Exploration
+[SHard] Defeat: Gul Solda
+[SHard] Run: Decol Malluda Subjugation
+Harvest: Ruins Grapes
+Harvest: Sanctum Radish
+[BQuest] Run: Buster Quest III
+
+[FQuest] Defeat: Guar Zigmorde
+[FQuest] Defeat: Kuronites
+[FQuest] Defeat: Oro-ogar
+[Normal] Collect: Pitta Wadda Rings
+[Normal] Defeat: Pitta Wadda
+[Hard] Collect: Malmoth Hooves I
+[Hard] Run: Subdue Caterdra'n I
+[VHard] Defeat: Bal Rodos
+[VHard] Run: Amduscia Marathon VH
+[SHard] Defeat: Zeshrayda
+[SHard] Collect: Spar Chips
+Catch: Lillipa Shell
+Catch: Wopal Shark
+[BQuest] Run: Buster Quest I
+
+[FQuest] Defeat: Phantoms
+[FQuest] Defeat: T. Rex
+[FQuest] Defeat: Train Ghidoran
+[Normal] Defeat: Schilt Grimian
+[Normal] Run: Kartargot Extermination
+[Hard] Collect: Garongo Molars II
+[Hard] Defeat: Sparzyle I
+[VHard] Collect: Wolgahda Belly Fangs II
+[VHard] Run: Seabed Ecological Survey
+[SHard] Defeat: Predicahda
+[SHard] Run: Decol Malluda Subjugation
+Harvest: Kuron Lotus
+Catch: Forest Sweetfish
+[BQuest] Defeat: Lanzer Valace
+
+[FQuest] Defeat: Phantoms
+[FQuest] Defeat: U.F.O
+[FQuest] Defeat: Vegas Illusia
+[Normal] Collect: Sol Dinian Fangs I
+[Normal] Run: Nab Rappy Capture I
+[Hard] Defeat: Itagi-zakri
+[Hard] Run: Subdue Org Blan
+[VHard] Defeat: Org Blan
+[VHard] Collect: Digg Leg Horns I
+[SHard] Collect: Vid Gilos Fins
+[SHard] Run: Tundra Exploration
+Harvest: Tundra Green Onions
+Catch: Tunnels Mantis Shrimp
+[BQuest] Run: Buster Quest II
+
+[FQuest] Defeat: Garongo
+[FQuest] Defeat: Naberius Natives
+[FQuest] Defeat: Rockbear
+[Normal] Collect: N. Rappy Feathers I
+[Normal] Defeat: Ghastle Dohr
+[Normal] Defeat: Paji-ghiry
+[Hard] Collect: Tranmizer Claws I
+[Hard] Run: Transformer Takedown
+[VHard] Defeat: Devil's Trailer II
+[VHard] Run: Coastal Ecological Survey
+[SHard] Defeat: Vol Dragon
+[SHard] Collect: Sharp Garongo Claws
+Catch: Model Ship
+Catch: Petit Rodos
+
+[FQuest] Defeat: Dragonkin
+[FQuest] Defeat: Nordiran
+[FQuest] Defeat: Vol Dragon
+[Normal] Defeat: Snake Helicopter
+[Normal] Run: Lillipa Marathon N
+[Hard] Collect: Fordoran Manes I
+[Hard] Defeat: Sadinian I
+[VHard] Collect: Cyclonehda Horns I
+[VHard] Run: Ruins Exploration I
+[SHard] Defeat: Dragon Ex
+[SHard] Run: Coast Exploration
+Harvest: Quarry Potato
+Catch: Ruins Shrimp
+[BQuest] Run: Buster Quest III
+
+[FQuest] Defeat: Gwanahda
+[FQuest] Defeat: Mechs
+[FQuest] Defeat: Spardan A
+[Normal] Collect: Lanz Vareda Tail Blades
+[Normal] Run: Cargo Recovery: Desert
+[Hard] Defeat: Circus Carriage
+[Hard] Run: Mobile Fortress Destruction 
+[VHard] Collect: Fangulfur Claws I
+[VHard] Defeat: Doluahda
+[SHard] Collect: Blue Blutorbon Shells
+[SHard] Run: Sub. Tunnels Exploration
+Harvest: Cave Pumpkins
+Catch: Sanctum Fiddler Crab
+[BQuest] Defeat: Misil Ghasud
+
+[FQuest] Defeat: King Yede
+[FQuest] Defeat: Naberius Natives
+[FQuest] Defeat: Snow Banshee
+[Normal] Collect: Schilt Grimian Shells
+[Normal] Defeat: Type-15 Tank
+[Hard] Collect: Spargun Grenades II
+[Hard] Run: Amduscia Marathon H
+[VHard] Defeat: Bal Rodos
+[VHard] Run: Coast Exploration
+[SHard] Collect: Dinian Hide
+[SHard] Defeat: Luda Sorcerer
+Catch: Little Zakuri
+Catch: Naberius Turtle
+[BQuest] Run: Buster Quest I
+
+[FQuest] Defeat: Big Vardha
+[FQuest] Defeat: Mechs
+[FQuest] Defeat: Signo Beat
+[Normal] Defeat: Gigur Gunne-gam
+[Normal] Run: Anjhadu-lili Demolition
+[Hard] Defeat: Codotta Idetta
+[Hard] Collect: S. Gun Barrels I
+[VHard] Collect: Wolgahda Belly Fangs II
+[VHard] Run: Seabed Exploration
+[SHard] Defeat: Deue Solda
+[SHard] Run: Ruins Exploration
+Harvest: Facility Mint
+Catch: Skyscape Kelp
+[BQuest] Defeat: Lanzer Valace
+
+[FQuest] Defeat: Dragonkin
+[FQuest] Defeat: Nordiransa
+[FQuest] Defeat: Quartz Dragon
+[Normal] Collect: Sil Dinian Scales II
+[Normal] Run: Shironia Exploration
+[Hard] Defeat: Devil's Trailer I
+[Hard] Run: Naberius Advanced Marathon H
+[VHard] Collect: Aginis Tail Feathers I
+[VHard] Defeat: Fangulf I
+[SHard] Collect: Wolgahda Kneecaps
+[SHard] Run: Skyscape Exploration
+Harvest: Coast Olives
+Catch: Shironian Carp
+[BQuest] Run: Buster Quest II
+
+[FQuest] Defeat: Darkers
+[FQuest] Defeat: Kuklonahda
+[FQuest] Defeat: Zeshrayda
+[Normal] Defeat: Caterdra'n I
+[Normal] Collect: N. Rappy Feathers I
+[Hard] Collect: Caterdra'nsa Fangs I
+[VHard] Defeat: Bal Rodos
+[VHard] Run: Lillipa Marathon VH
+[SHard] Defeat: Bal Rodos
+[SHard] Collect: Fordoransa Horns
+Harvest: Red Meat
+Catch: Quarry Cutlass
+[BQuest] Run: Buster Quest I
+Run: Las Vegas Exploration
+
+[FQuest] Defeat: Dirandal
+[FQuest] Defeat: Dragon Ex
+[FQuest] Defeat: Dragonkin
+[Normal] Defeat: Train Ghidoran
+[Normal] Run: Anjhadu-lili Demolition
+[Hard] Collect: Neon Tubes
+[Hard] Defeat: Spardan A II
+[VHard] Collect: Gilnach Chest Armor I
+[VHard] Run: ARKS Search: Tundra I
+[SHard] Defeat: Tag Sevanian
+[SHard] Run: Seabed Exploration
+Harvest: Forest Tomato
+Harvest: Vegas Lettuce
+[BQuest] Defeat: Lanzer Valace
+
+[FQuest] Defeat: Bal Rodos
+[FQuest] Defeat: Luda Sorcerer
+[FQuest] Defeat: Oceanids
+[Normal] Collect: Lanz Vareda Tail Blades
+[Normal] Run: Shironia Exploration
+[Hard] Defeat: Boxer Phamut
+[Hard] Run: Kuron Exploration
+[VHard] Collect: Breeahda Wings I
+[VHard] Defeat: Devil's Trailer II
+[SHard] Collect: Dingell Arms
+[SHard] Run: Sub. Tunnels Exploration
+Catch: Amduscia Coral
+Catch: Coast Clam
+[BQuest] Run: Buster Quest II
+
+[FQuest] Defeat: Blu Ringahda
+[FQuest] Defeat: Jagd Dingell
+[FQuest] Defeat: Mechs
+[Normal] Collect: Pitta Wadda Rings
+[Normal] Defeat: Ghastle Dohr
+[Normal] Defeat: Iza-ogar
+[Hard] Collect: Spargun Grenades I
+[Hard] Run: Transformer Takedown
+[VHard] Defeat: Goronzoran
+[VHard] Run: Sanctum Suppression
+[SHard] Defeat: Vegas Illusia II
+[SHard] Collect: Signo Chips
+Catch: Desert Flounder
+Catch: Tundra Clione
+
+[FQuest] Defeat: Biol Meduna
+[FQuest] Defeat: Oceanids
+[FQuest] Defeat: Vid Gilos
+[Normal] Defeat: Falgarbon
+[Normal] Run: Naberius Advanced Marathon N
+[Hard] Collect: Kartargot Legs I
+[Hard] Defeat: Sparzyle II
+[VHard] Collect: Gilnach Chest Armor I
+[VHard] Run: V. Cave Exploration I
+[SHard] Defeat: Blu Ringahda
+[SHard] Run: Seabed Exploration
+Harvest: Ruins Grapes
+Harvest: Shironian Sprouts
+[BQuest] Run: Buster Quest III
+
+[FQuest] Defeat: Anushi-zagri
+[FQuest] Defeat: Gigur Gunne-gam
+[FQuest] Defeat: Kuronites
+[Normal] Collect: V. Dragon Claws I
+[Normal] Run: Subdue Rheo Madullard
+[Hard] Defeat: Paji-gowan
+[Hard] Run: Subdue Caterdra'nsa
+[VHard] Collect: Fangulfur Claws I
+[VHard] Defeat: Krabahda II
+[SHard] Collect: Blue Blutorbon Shells
+[SHard] Run: Forest Exploration
+Catch: Caves Mussels
+Catch: Little Meduna
+[BQuest] Defeat: Misil Ghasud
+
+[FQuest] Defeat: Nepto Cassadora
+[FQuest] Defeat: Oceanids
+[FQuest] Defeat: Rheo Madullard
+[Normal] Collect: Oodan Fur I
+[Normal] Defeat: Aginis I
+[Hard] Collect: Baridran Scales I
+[Hard] Run: Distress Signal Inv. I
+[VHard] Defeat: Bal Rodos
+[VHard] Run: Sanctum Exploration
+[SHard] Collect: Dinian Hide
+[SHard] Defeat: Solda Kapita
+Catch: Empty Can
+Catch: Wopal Shark
+[BQuest] Run: Buster Quest I
+
+[FQuest] Defeat: Guar Zigmorde
+[FQuest] Defeat: Kuronites
+[FQuest] Defeat: Oro-ogar
+[Normal] Defeat: Rat Phamut
+[Normal] Run: Tokyo Exploration
+[Hard] Collect: Gulf Fangs I
+[Hard] Defeat: Skull Buffalo
+[VHard] Collect: Cyclonehda Horns II
+[VHard] Run: ARKS Search: Tundra I
+[SHard] Defeat: Dagan
+[SHard] Run: Coast Exploration
+Harvest: Kuron Lotus
+Harvest: Sanctum Radish
+[BQuest] Defeat: Lanzer Valace
+
+[FQuest] Defeat: Phantoms
+[FQuest] Defeat: T. Rex
+[FQuest] Defeat: Train Ghidoran
+[Normal] Collect: Iza-ogar Horns
+[Normal] Run: Facility Exploration
+[Hard] Defeat: Spargun I
+[Hard] Run: Naberius Beginner Marathon H
+[VHard] Collect: Aginis Tail Feathers II
+[VHard] Defeat: Type-15 Tank
+[SHard] Collect: Wolgahda Kneecaps
+[SHard] Run: Tundra Exploration
+Harvest: Marbled Meat
+Catch: Tunnels Mantis Shrimp
+[BQuest] Run: Buster Quest II
+
+[FQuest] Defeat: Phantoms
+[FQuest] Defeat: U.F.O
+[FQuest] Defeat: Vegas Illusia
+[Normal] Collect: Schilt Grimian Shells
+[Normal] Defeat: Digg I
+[Normal] Defeat: Ghastle Dohr
+[Hard] Collect: Malmoth Hooves I
+[Hard] Run: Kuron Exploration
+[VHard] Defeat: Krabahda I
+[VHard] Run: V. Cave Exploration I
+[SHard] Collect: Beautiful Aginis Crests
+[SHard] Defeat: Ga Wonda
+Catch: Lillipa Shell
+Catch: Petit Rodos
+
+[FQuest] Defeat: Garongo
+[FQuest] Defeat: Naberius Natives
+[FQuest] Defeat: Rockbear
+[Normal] Defeat: Parata Picoda
+[Normal] Run: Subdue Rheo Madullard
+[Hard] Collect: Fordoran Manes II
+[Hard] Defeat: Guardine II
+[VHard] Collect: Wolgahda Belly Fangs I
+[VHard] Run: Skyscape Exploration I
+[SHard] Defeat: Gul Solda
+[SHard] Run: Coast Exploration
+Harvest: Quarry Potato
+Catch: Forest Sweetfish
+[BQuest] Run: Buster Quest III
+
+[FQuest] Defeat: Dragonkin
+[FQuest] Defeat: Nordiran
+[FQuest] Defeat: Vol Dragon
+[Normal] Collect: Sol Dinian Fangs II
+[Normal] Run: Nab Rappy Capture I
+[Hard] Defeat: Vulture Phamut
+[Hard] Run: Subdue Org Blan
+[VHard] Defeat: Decol Malluda
+[VHard] Collect: Digg Leg Horns II
+[SHard] Collect: Tag Aqulupus Claws
+[SHard] Run: Skyscape Exploration
+Harvest: Tundra Green Onions
+Catch: Sanctum Fiddler Crab
+[BQuest] Defeat: Misil Ghasud
+
+[FQuest] Defeat: Gwanahda
+[FQuest] Defeat: Mechs
+[FQuest] Defeat: Spardan A
+[Normal] Collect: N. Rappy Feathers II
+[Normal] Defeat: Ado-ogar
+[Hard] Collect: Dullahan Rider Sidecars
+[Hard] Run: Subdue Caterdra'n I
+[VHard] Defeat: Bal Rodos
+[VHard] Run: Amduscia Marathon VH
+[SHard] Defeat: Gwanahda
+[SHard] Collect: Gilnach Arms
+Catch: Little Zakuri
+Catch: Model Ship
+[BQuest] Run: Buster Quest I
+
+[FQuest] Defeat: King Yede
+[FQuest] Defeat: Naberius Natives
+[FQuest] Defeat: Snow Banshee
+[Normal] Defeat: Talvolpus
+[Normal] Run: Facility Exploration
+[Hard] Collect: Fangulf Claws II
+[Hard] Defeat: Godoni-agari
+[VHard] Collect: Wolgahda Belly Fangs II
+[VHard] Run: Polluter Destruction I
+[SHard] Defeat: Rockbear
+[SHard] Run: Ruins Exploration
+Harvest: Facility Mint
+Catch: Ruins Shrimp
+[BQuest] Defeat: Lanzer Valace
+
+[FQuest] Defeat: Big Vardha
+[FQuest] Defeat: Mechs
+[FQuest] Defeat: Signo Beat
+[Normal] Collect: Krahda Mandibles I
+[Normal] Run: Kartargot Extermination
+[Hard] Defeat: Oro-ogar
+[Hard] Run: Mobile Fortress Destruction 
+[VHard] Collect: Breeahda Wings I
+[VHard] Defeat: Kuklonahda II
+[SHard] Collect: Deegalla Wings
+[SHard] Run: Tundra Exploration
+Harvest: Cave Pumpkins
+Catch: Shironian Carp
+[BQuest] Run: Buster Quest II
+
+[FQuest] Defeat: Dragonkin
+[FQuest] Defeat: Nordiransa
+[FQuest] Defeat: Quartz Dragon
+[Normal] Collect: Nordiran Tails I
+[Normal] Defeat: Aginis II
+[Normal] Defeat: Ghastle Dohr
+[Hard] Collect: S. Banther Claws I
+[Hard] Run: Codotta Idetta Sub.
+[VHard] Defeat: Org Blan
+[VHard] Run: Skyscape Exploration I
+[SHard] Collect: Fangulfur Horns
+[SHard] Defeat: Gu Wonda
+Catch: Naberius Turtle
+Catch: Tunnels Eagle Ray
+
+[FQuest] Defeat: Darkers
+[FQuest] Defeat: Kuklonahda
+[FQuest] Defeat: Zeshrayda
+[Normal] Defeat: Dosu Zombie
+[Normal] Run: Lillipa Marathon N
+[Hard] Collect: Ogaki-baru Crests
+[Hard] Defeat: Launcher Neon
+[VHard] Collect: Cyclonehda Horns II
+[VHard] Run: Coastal Ecological Survey
+[SHard] Defeat: Snow Banther
+[SHard] Run: Coast Exploration
+Harvest: Tokyo Soybeans
+Catch: Skyscape Kelp
+[BQuest] Run: Buster Quest III
+
+[FQuest] Defeat: Dirandal
+[FQuest] Defeat: Dragon Ex
+[FQuest] Defeat: Dragonkin
+[Normal] Collect: V. Dragon Claws II
+[Normal] Run: Cargo Recovery: Desert
+[Hard] Defeat: Spargun II
+[VHard] Collect: Breeahda Wings II
+[VHard] Defeat: Sol Dirandal
+[SHard] Collect: Deegalla Wings
+[SHard] Run: Skyscape Exploration
+Harvest: Coast Olives
+Catch: Vegas Lobster
+[BQuest] Defeat: Misil Ghasud
+Run: Las Vegas Exploration
+
+            [ 6-6-2018 ]
+[FQuest] Defeat: Bal Rodos
+[FQuest] Defeat: Luda Sorcerer
+[FQuest] Defeat: Oceanids
+[Normal] Defeat: Nepto Cassadora
+[Normal] Collect: Za Oodan Thorns I
+[Hard] Collect: Tranmizer Claws II
+[Hard] Run: Kuron Exploration
+[VHard] Defeat: Bal Rodos
+[VHard] Run: Polluter Destruction I
+[SHard] Collect: Signo Chips
+[SHard] Defeat: Dicahda
+Catch: Earth Shell
+Catch: Sanctum Nautilus
+[BQuest] Run: Buster Quest I
+
+[FQuest] Defeat: Blu Ringahda
+[FQuest] Defeat: Jagd Dingell
+[FQuest] Defeat: Mechs
+[Normal] Defeat: Rheo Madullard
+[Normal] Run: Tokyo Exploration
+[Hard] Collect: Godoni-agari Bells
+[Hard] Defeat: Guardine I
+[VHard] Collect: Gilnach Chest Armor II
+[VHard] Run: Ruins Exploration I
+[SHard] Defeat: Deue Solda
+[SHard] Run: Quarry Exploration
+Harvest: Skyscape Beans
+Catch: Kuron Firefly Squid
+[BQuest] Defeat: Lanzer Valace
+
+[FQuest] Defeat: Biol Meduna
+[FQuest] Defeat: Oceanids
+[FQuest] Defeat: Vid Gilos
+[Normal] Collect: Road Roller Roller
+[Normal] Run: Facility Exploration
+[Hard] Defeat: Juggler Pierrot
+[Hard] Run: Sanctum Infiltration H
+[VHard] Defeat: Vardha Soma
+[VHard] Collect: Digg Leg Horns II
+[SHard] Collect: Tag Aqulupus Claws
+[SHard] Run: Sub. Tunnels Exploration
+Harvest: Seabed Shallots
+Catch: Tundra Herring
+[BQuest] Run: Buster Quest II
+
+[FQuest] Defeat: Anushi-zagri
+[FQuest] Defeat: Gigur Gunne-gam
+[FQuest] Defeat: Kuronites
+[Normal] Collect: El Ahda Wings I
+[Normal] Defeat: Digg II
+[Normal] Defeat: Ghastle Dohr
+[Hard] Collect: Spargun Grenades I
+[Hard] Run: Mobile Fortress Destruction 
+[VHard] Defeat: Kuklonahda I
+[VHard] Run: Ruins Exploration I
+[SHard] Defeat: Big Vardha
+[SHard] Collect: Spar Chips
+Catch: Cave Arowanas
+Catch: Vegas Jaws
+
+[FQuest] Defeat: Nepto Cassadora
+[FQuest] Defeat: Oceanids
+[FQuest] Defeat: Rheo Madullard
+[Normal] Defeat: Bonta Bearadda
+[Normal] Run: Amduscia Marathon N
+[Hard] Defeat: Guar Zigmorde
+[Hard] Collect: Garongo Molars II
+[VHard] Collect: Quartz Dragon Fangs II
+[VHard] Run: Coastal Ecological Survey
+[SHard] Defeat: Predicahda
+[SHard] Run: Decol Malluda Subjugation
+Harvest: Tunnels Mushrooms
+Catch: Seabed Oyster
+[BQuest] Run: Buster Quest III
+
+[FQuest] Defeat: Guar Zigmorde
+[FQuest] Defeat: Kuronites
+[FQuest] Defeat: Oro-ogar
+[Normal] Collect: El Ahda Wings I
+[Normal] Run: Nab Rappy Capture I
+[Hard] Defeat: Spardan A I
+[Hard] Run: Subdue Caterdra'n I
+[VHard] Collect: Breeahda Wings II
+[VHard] Defeat: Aqulupus
+[SHard] Collect: Falcabone Shell Fragments
+[SHard] Run: Volcanic Caverns Exploration
+Harvest: Desert Pepper
+Catch: Facility Squid
+[BQuest] Defeat: Misil Ghasud
+
+[FQuest] Defeat: Phantoms
+[FQuest] Defeat: T. Rex
+[FQuest] Defeat: Train Ghidoran
+[Normal] Collect: Oodan Fur II
+[Normal] Defeat: Anushi-zagri
+[Hard] Collect: Sadinian Dagger Pieces I
+[Hard] Run: Codotta Idetta Sub.
+[VHard] Defeat: Bal Rodos
+[VHard] Run: Naberius Advanced Marathon VH
+[SHard] Collect: Sharp Garongo Claws
+[SHard] Defeat: Luda Sorcerer
+Catch: Kuron Wrasse
+Catch: Shironian Salamander
+[BQuest] Run: Buster Quest I
+
+[FQuest] Defeat: Phantoms
+[FQuest] Defeat: U.F.O
+[FQuest] Defeat: Vegas Illusia
+[Normal] Defeat: Chaka Zombie
+[Normal] Run: Anjhadu-lili Demolition
+[Hard] Collect: Neon Tubes
+[Hard] Defeat: U.F.O
+[VHard] Collect: Wolgahda Belly Fangs I
+[VHard] Run: Coast Exploration
+[SHard] Defeat: Quartz Dragon
+[SHard] Run: Coast Exploration
+Catch: Quarry Cutlass
+Catch: Skyscape Oarfish
+[BQuest] Defeat: Lanzer Valace
+
+[FQuest] Defeat: Garongo
+[FQuest] Defeat: Naberius Natives
+[FQuest] Defeat: Rockbear
+[Normal] Collect: Krahda Mandibles II
+[Normal] Run: Shironia Exploration
+[Hard] Defeat: Oodan I
+[VHard] Collect: Breeahda Wings I
+[VHard] Defeat: Type-15 Tank
+[SHard] Collect: Dingell Arms
+[SHard] Run: Volcanic Caverns Exploration
+Harvest: Red Meat
+Harvest: Vegas Lettuce
+[BQuest] Run: Buster Quest II
+Run: Las Vegas Exploration
+
+[FQuest] Defeat: Dragonkin
+[FQuest] Defeat: Nordiran
+[FQuest] Defeat: Vol Dragon
+[Normal] Collect: Zombie Necktie
+[Normal] Defeat: Garongo I
+[Normal] Defeat: Ghastle Dohr
+[Hard] Collect: S. Banther Claws II
+[Hard] Run: Transformer Takedown
+[VHard] Defeat: Fangulf II
+[VHard] Run: Coast Exploration
+[SHard] Collect: Fangulfur Horns
+[SHard] Defeat: Dagan
+Harvest: Forest Tomato
+Catch: Amduscia Coral
+
+[FQuest] Defeat: Gwanahda
+[FQuest] Defeat: Mechs
+[FQuest] Defeat: Spardan A
+[Normal] Defeat: Vlanadian
+[Normal] Run: Amduscia Marathon N
+[Hard] Collect: Dinian Fins I
+[Hard] Defeat: King Yede I
+[VHard] Collect: Cyclonehda Horns I
+[VHard] Run: Seabed Ecological Survey
+[SHard] Defeat: Solda Kapita
+[SHard] Run: Ruins Exploration
+Catch: Coast Clam
+Catch: Desert Flounder
+[BQuest] Run: Buster Quest III
+
+[FQuest] Defeat: King Yede
+[FQuest] Defeat: Naberius Natives
+[FQuest] Defeat: Snow Banshee
+[Normal] Collect: Krahda Mandibles I
+[Normal] Run: Kartargot Extermination
+[Hard] Defeat: Dullahan Rider
+[Hard] Run: Kuron Exploration
+[VHard] Collect: Aginis Tail Feathers I
+[VHard] Defeat: Blumegalla
+[SHard] Collect: Vid Gilos Fins
+[SHard] Run: Volcanic Caverns Exploration
+Harvest: Shironian Sprouts
+Catch: Tundra Clione
+[BQuest] Defeat: Misil Ghasud
+
+[FQuest] Defeat: Big Vardha
+[FQuest] Defeat: Mechs
+[FQuest] Defeat: Signo Beat
+[Normal] Collect: Nordiran Tails I
+[Normal] Defeat: Digg I
+[Hard] Collect: Ogaki-baru Crests
+[VHard] Defeat: Bal Rodos
+[VHard] Run: Mech Power Survey: Quarry
+[SHard] Defeat: Zeshrayda
+[SHard] Collect: Spar Chips
+Harvest: Ruins Grapes
+Catch: Little Meduna
+[BQuest] Run: Buster Quest I
+Run: Las Vegas Exploration
+
+[FQuest] Defeat: Dragonkin
+[FQuest] Defeat: Nordiransa
+[FQuest] Defeat: Quartz Dragon
+[Normal] Defeat: Doublune
+[Normal] Run: Tokyo Exploration
+[Hard] Collect: Kartargot Legs II
+[Hard] Defeat: Oodan II
+[VHard] Collect: Wolgahda Belly Fangs I
+[VHard] Run: Sanctum Suppression
+[SHard] Defeat: Biol Meduna
+[SHard] Run: Sanctum Exploration
+Catch: Caves Mussels
+Catch: Empty Can
+[BQuest] Defeat: Lanzer Valace
+
+[FQuest] Defeat: Darkers
+[FQuest] Defeat: Kuklonahda
+[FQuest] Defeat: Zeshrayda
+[Normal] Collect: Iza-ogar Horns
+[Normal] Run: Nab Rappy Capture I
+[Hard] Defeat: Sadinian I
+[Hard] Run: Naberius Advanced Marathon H
+[VHard] Collect: Aginis Tail Feathers II
+[VHard] Defeat: Dahgash I
+[SHard] Collect: Falcabone Shell Fragments
+[SHard] Run: Forest Exploration
+Harvest: Sanctum Radish
+Catch: Wopal Shark
+[BQuest] Run: Buster Quest II
+
+[FQuest] Defeat: Dirandal
+[FQuest] Defeat: Dragon Ex
+[FQuest] Defeat: Dragonkin
+[Normal] Collect: Za Oodan Thorns II
+[Normal] Defeat: Ghastle Dohr
+[Normal] Defeat: Paji-ghiry
+[Hard] Collect: Windira Scales II
+[Hard] Run: Distress Signal Inv. I
+[VHard] Defeat: Devil's Trailer II
+[VHard] Run: Quarry Exploration
+[SHard] Collect: Gilnach Arms
+[SHard] Defeat: Ga Wonda
+Harvest: Kuron Lotus
+Harvest: Marbled Meat
+
+[FQuest] Defeat: Bal Rodos
+[FQuest] Defeat: Luda Sorcerer
+[FQuest] Defeat: Oceanids
+[Normal] Defeat: Brown Bear
+[Normal] Run: Cargo Recovery: Desert
+[Hard] Collect: Dinian Fins II
+[Hard] Defeat: Devil's Trailer I
+[VHard] Collect: Gilnach Chest Armor I
+[VHard] Run: Sanctum Exploration
+[SHard] Defeat: Dragon Ex
+[SHard] Run: Quarry Exploration
+Catch: Lillipa Shell
+Catch: Tunnels Mantis Shrimp
+[BQuest] Run: Buster Quest III
+
+[FQuest] Defeat: Blu Ringahda
+[FQuest] Defeat: Jagd Dingell
+[FQuest] Defeat: Mechs
+[Normal] Collect: El Ahda Wings II
+[Normal] Run: Tokyo Exploration
+[Hard] Defeat: Marda Toccata
+[Hard] Run: Subdue Caterdra'nsa
+[VHard] Defeat: Dragon Ex
+[VHard] Collect: Fangulfur Claws I
+[SHard] Collect: Falcabone Shell Fragments
+[SHard] Run: Volcanic Caverns Exploration
+Catch: Forest Sweetfish
+Catch: Petit Rodos
+[BQuest] Defeat: Misil Ghasud
+
+[FQuest] Defeat: Biol Meduna
+[FQuest] Defeat: Oceanids
+[FQuest] Defeat: Vid Gilos
+[Normal] Collect: Sil Dinian Scales I
+[Normal] Defeat: Type-15 Tank
+[Hard] Collect: Caterdra'nsa Fangs II
+[Hard] Run: Transformer Takedown
+[VHard] Defeat: Bal Rodos
+[VHard] Run: Lillipa Marathon VH
+[SHard] Defeat: Bal Rodos
+[SHard] Collect: Digg Eyelids
+Harvest: Quarry Potato
+Harvest: Tundra Green Onions
+[BQuest] Run: Buster Quest I
+
+[FQuest] Defeat: Anushi-zagri
+[FQuest] Defeat: Gigur Gunne-gam
+[FQuest] Defeat: Kuronites
+[Normal] Defeat: Gigur Gunne-gam
+[Normal] Run: Subdue Rheo Madullard
+[Hard] Collect: Gulf Fangs I
+[Hard] Defeat: Sadinian II
+[VHard] Collect: Quartz Dragon Fangs I
+[VHard] Run: Mech Power Survey: Quarry
+[SHard] Defeat: Tag Sevanian
+[SHard] Run: Decol Malluda Subjugation
+Catch: Model Ship
+Catch: Sanctum Fiddler Crab
+[BQuest] Defeat: Lanzer Valace
+
+[FQuest] Defeat: Nepto Cassadora
+[FQuest] Defeat: Oceanids
+[FQuest] Defeat: Rheo Madullard
+[Normal] Collect: Pitta Wadda Rings
+[Normal] Run: Anjhadu-lili Demolition
+[Hard] Defeat: Circus Carriage
+[Hard] Run: Subdue Org Blan
+[VHard] Defeat: Vardha Soma
+[VHard] Collect: Breeahda Wings II
+[SHard] Collect: Falcabone Shell Fragments
+[SHard] Run: Tundra Exploration
+Catch: Little Zakuri
+Catch: Ruins Shrimp
+[BQuest] Run: Buster Quest II
+
+[FQuest] Defeat: Guar Zigmorde
+[FQuest] Defeat: Kuronites
+[FQuest] Defeat: Oro-ogar
+[Normal] Collect: Za Oodan Thorns I
+[Normal] Defeat: Garongo II
+[Normal] Defeat: Ghastle Dohr
+[Hard] Collect: Baridran Scales I
+[Hard] Run: Mobile Fortress Destruction 
+[VHard] Defeat: Gilnas II
+[VHard] Run: Seabed Exploration
+[SHard] Defeat: Gwanahda
+[SHard] Collect: Fangulfur Horns
+Harvest: Cave Pumpkins
+Harvest: Facility Mint
+
+[FQuest] Defeat: Phantoms
+[FQuest] Defeat: T. Rex
+[FQuest] Defeat: Train Ghidoran
+[Normal] Defeat: Banoridian
+[Normal] Run: Naberius Advanced Marathon N
+[Hard] Collect: S. Gun Barrels II
+[Hard] Defeat: Orota Biketta
+[VHard] Collect: Gilnach Chest Armor II
+[VHard] Run: Seabed Ecological Survey
+[SHard] Defeat: Gu Wonda
+[SHard] Run: Seabed Exploration
+Catch: Naberius Turtle
+Catch: Shironian Carp
+[BQuest] Run: Buster Quest III
+
+[FQuest] Defeat: Phantoms
+[FQuest] Defeat: U.F.O
+[FQuest] Defeat: Vegas Illusia
+[Normal] Collect: Road Roller Roller
+[Normal] Run: Subdue Rheo Madullard
+[Hard] Defeat: Bonta Bakuta
+[VHard] Collect: Aginis Tail Feathers I
+[VHard] Defeat: Stark Gun
+[SHard] Collect: Blue Blutorbon Shells
+[SHard] Run: Desert Exploration
+Catch: Skyscape Kelp
+Catch: Tunnels Eagle Ray
+[BQuest] Defeat: Misil Ghasud
+Run: Las Vegas Exploration
+
+[FQuest] Defeat: Garongo
+[FQuest] Defeat: Naberius Natives
+[FQuest] Defeat: Rockbear
+[Normal] Collect: Nordiran Tails II
+[Normal] Defeat: Pitta Wadda
+[Hard] Collect: Dullahan Rider Sidecars
+[Hard] Run: Subdue Caterdra'nsa
+[VHard] Defeat: Bal Rodos
+[VHard] Run: Sanctum Suppression
+[SHard] Collect: Digg Eyelids
+[SHard] Defeat: Dicahda
+Harvest: Coast Olives
+Harvest: Tokyo Soybeans
+[BQuest] Run: Buster Quest I
+
+[FQuest] Defeat: Dragonkin
+[FQuest] Defeat: Nordiran
+[FQuest] Defeat: Vol Dragon
+[Normal] Defeat: Polar Bear
+[Normal] Run: Tokyo Exploration
+[Hard] Defeat: Vegas Illusia I
+[Hard] Collect: Kartargot Legs I
+[VHard] Collect: Quartz Dragon Fangs II
+[VHard] Run: Seabed Exploration
+[SHard] Defeat: Blu Ringahda
+[SHard] Run: Coast Exploration
+Catch: Sanctum Nautilus
+Catch: Vegas Lobster
+[BQuest] Defeat: Lanzer Valace
+
+[FQuest] Defeat: Gwanahda
+[FQuest] Defeat: Mechs
+[FQuest] Defeat: Spardan A
+[Normal] Collect: Schilt Grimian Shells
+[Normal] Run: Nab Rappy Capture I
+[Hard] Defeat: Bikuda Rabitta
+[Hard] Run: Sanctum Infiltration H
+[VHard] Defeat: Decol Malluda
+[VHard] Collect: Breeahda Wings II
+[SHard] Collect: Blumegalla Flowers
+[SHard] Run: Desert Exploration
+Catch: Earth Shell
+Catch: Kuron Firefly Squid
+[BQuest] Run: Buster Quest II
+
+[FQuest] Defeat: King Yede
+[FQuest] Defeat: Naberius Natives
+[FQuest] Defeat: Snow Banshee
+[Normal] Collect: Sol Dinian Fangs I
+[Normal] Defeat: Ghastle Dohr
+[Normal] Defeat: Leran-gam
+[Hard] Collect: Malmoth Hooves II
+[Hard] Run: Subdue Org Blan
+[VHard] Defeat: Zeshrayda I
+[VHard] Run: Sanctum Exploration
+[SHard] Collect: Signo Chips
+[SHard] Defeat: Predicahda
+Harvest: Seabed Shallots
+Harvest: Skyscape Beans
+
+[FQuest] Defeat: Big Vardha
+[FQuest] Defeat: Mechs
+[FQuest] Defeat: Signo Beat
+[Normal] Defeat: Doublunda
+[Normal] Run: Facility Exploration
+[Hard] Defeat: Rockbear I
+[Hard] Collect: Garongo Molars I
+[VHard] Collect: Cyclonehda Horns II
+[VHard] Run: Naberius Advanced Marathon VH
+[SHard] Defeat: Gul Solda
+[SHard] Run: Sanctum Exploration
+Catch: Tundra Herring
+Catch: Vegas Jaws
+[BQuest] Run: Buster Quest III
+
+[FQuest] Defeat: Dragonkin
+[FQuest] Defeat: Nordiransa
+[FQuest] Defeat: Quartz Dragon
+[Normal] Collect: Lanz Vareda Tail Blades
+[Normal] Run: Anjhadu-lili Demolition
+[Hard] Defeat: Sparzyle I
+[Hard] Run: Codotta Idetta Sub.
+[VHard] Collect: Digg Leg Horns II
+[VHard] Defeat: Vinto Vargr
+[SHard] Collect: Vid Gilos Fins
+[SHard] Run: Desert Exploration
+Harvest: Tunnels Mushrooms
+Catch: Cave Arowanas
+[BQuest] Defeat: Misil Ghasud
+
+            [ 6-7-2018 ]
+[FQuest] Defeat: Darkers
+[FQuest] Defeat: Kuklonahda
+[FQuest] Defeat: Zeshrayda
+[Normal] Collect: Sil Dinian Scales II
+[Normal] Defeat: Aginis I
+[Hard] Collect: Windira Scales II
+[Hard] Run: Subdue Org Blan
+[VHard] Defeat: Bal Rodos
+[VHard] Run: Amduscia Marathon VH
+[SHard] Defeat: Biol Meduna
+[SHard] Collect: Fordoransa Horns
+Catch: Facility Squid
+Catch: Seabed Oyster
+[BQuest] Run: Buster Quest I
+
+[FQuest] Defeat: Dirandal
+[FQuest] Defeat: Dragon Ex
+[FQuest] Defeat: Dragonkin
+[Normal] Defeat: Schilt Grimian
+[Normal] Run: Kartargot Extermination
+[Hard] Collect: Dagan Carapaces II
+[Hard] Defeat: Spargun I
+[VHard] Collect: Cyclonehda Horns I
+[VHard] Run: Seabed Ecological Survey
+[SHard] Defeat: Luda Sorcerer
+[SHard] Run: Seabed Exploration
+Harvest: Desert Pepper
+Catch: Shironian Salamander
+[BQuest] Defeat: Lanzer Valace
+
+[FQuest] Defeat: Bal Rodos
+[FQuest] Defeat: Luda Sorcerer
+[FQuest] Defeat: Oceanids
+[Normal] Collect: N. Rappy Feathers I
+[Normal] Run: Shironia Exploration
+[Hard] Defeat: Boxer Phamut
+[Hard] Defeat: Signo Beat I
+[Hard] Run: Subdue Caterdra'n I
+[VHard] Collect: Fangulfur Claws II
+[SHard] Collect: Talobecko Beaks
+[SHard] Run: Tundra Exploration
+Catch: Kuron Wrasse
+Catch: Quarry Cutlass
+[BQuest] Run: Buster Quest II
+
+[FQuest] Defeat: Blu Ringahda
+[FQuest] Defeat: Jagd Dingell
+[FQuest] Defeat: Mechs
+[Normal] Collect: Zombie Necktie
+[Normal] Defeat: Digg II
+[Normal] Defeat: Ghastle Dohr
+[Hard] Collect: Tranmizer Claws I
+[Hard] Run: Transformer Takedown
+[VHard] Defeat: Goronzoran
+[VHard] Run: Sanctum Exploration
+[SHard] Collect: Yede Fists
+[SHard] Defeat: Dagan
+Harvest: Vegas Lettuce
+Catch: Skyscape Oarfish
+
+[FQuest] Defeat: Biol Meduna
+[FQuest] Defeat: Oceanids
+[FQuest] Defeat: Vid Gilos
+[Normal] Defeat: T. Rex
+[Normal] Run: Lillipa Marathon N
+[Hard] Collect: Fordoran Manes I
+[Hard] Defeat: Itagi-zakri
+[VHard] Collect: Gilnach Chest Armor I
+[VHard] Run: Quarry Exploration
+[SHard] Defeat: Train Ghidoran
+[SHard] Run: Ruins Exploration
+Harvest: Red Meat
+Catch: Amduscia Coral
+[BQuest] Run: Buster Quest III
+
+[FQuest] Defeat: Anushi-zagri
+[FQuest] Defeat: Gigur Gunne-gam
+[FQuest] Defeat: Kuronites
+[Normal] Collect: Sol Dinian Fangs I
+[Normal] Run: Cargo Recovery: Desert
+[Hard] Defeat: Godoni-agari
+[Hard] Run: Distress Signal Inv. I
+[VHard] Defeat: Dragon Ex
+[VHard] Collect: Fangulfur Claws II
+[SHard] Collect: Blumegalla Flowers
+[SHard] Run: Skyscape Exploration
+Harvest: Forest Tomato
+Catch: Desert Flounder
+[BQuest] Defeat: Misil Ghasud
+
+[FQuest] Defeat: Nepto Cassadora
+[FQuest] Defeat: Oceanids
+[FQuest] Defeat: Rheo Madullard
+[Normal] Defeat: Caterdra'n I
+[Normal] Collect: V. Dragon Claws I
+[Hard] Collect: Sadinian Dagger Pieces II
+[Hard] Run: Codotta Idetta Sub.
+[VHard] Defeat: Bal Rodos
+[VHard] Run: Sanctum Suppression
+[SHard] Collect: Fordoransa Horns
+[SHard] Defeat: Ga Wonda
+Harvest: Shironian Sprouts
+Catch: Coast Clam
+[BQuest] Run: Buster Quest I
+
+[FQuest] Defeat: Guar Zigmorde
+[FQuest] Defeat: Kuronites
+[FQuest] Defeat: Oro-ogar
+[Normal] Defeat: Train Ghidoran
+[Normal] Run: Subdue Rheo Madullard
+[Hard] Collect: Fangulf Claws I
+[Hard] Defeat: Vulture Phamut
+[VHard] Collect: Gilnach Chest Armor II
+[VHard] Run: V. Cave Exploration I
+[SHard] Defeat: Deue Solda
+[SHard] Run: Sanctum Exploration
+Catch: Little Meduna
+Catch: Tundra Clione
+[BQuest] Defeat: Lanzer Valace
+
+[FQuest] Defeat: Phantoms
+[FQuest] Defeat: T. Rex
+[FQuest] Defeat: Train Ghidoran
+[Normal] Collect: Oodan Fur I
+[Normal] Run: Facility Exploration
+[Hard] Defeat: Codotta Idetta
+[Hard] Run: Amduscia Marathon H
+[VHard] Collect: Digg Leg Horns I
+[VHard] Defeat: Jagd Dingell
+[SHard] Collect: Tag Aqulupus Claws
+[SHard] Run: Tundra Exploration
+Harvest: Ruins Grapes
+Catch: Empty Can
+[BQuest] Run: Buster Quest II
+
+[FQuest] Defeat: Phantoms
+[FQuest] Defeat: U.F.O
+[FQuest] Defeat: Vegas Illusia
+[Normal] Collect: Sol Dinian Fangs II
+[Normal] Defeat: Ganna-gam
+[Normal] Defeat: Ghastle Dohr
+[Hard] Collect: Caterdra'nsa Fangs I
+[Hard] Run: Subdue Caterdra'n I
+[VHard] Defeat: Signo Beat II
+[VHard] Run: Seabed Exploration
+[SHard] Defeat: Rockbear
+[SHard] Collect: Beautiful Aginis Crests
+Harvest: Sanctum Radish
+Catch: Caves Mussels
+
+[FQuest] Defeat: Garongo
+[FQuest] Defeat: Naberius Natives
+[FQuest] Defeat: Rockbear
+[Normal] Defeat: Lanz Vareda
+[Normal] Run: Kartargot Extermination
+[Hard] Collect: Dinian Fins I
+[Hard] Defeat: Oro-ogar
+[VHard] Collect: Quartz Dragon Fangs II
+[VHard] Run: V. Cave Exploration I
+[SHard] Defeat: Gu Wonda
+[SHard] Run: Sanctum Exploration
+Harvest: Marbled Meat
+Catch: Wopal Shark
+[BQuest] Run: Buster Quest III
+
+[FQuest] Defeat: Dragonkin
+[FQuest] Defeat: Nordiran
+[FQuest] Defeat: Vol Dragon
+[Normal] Collect: N. Rappy Feathers II
+[Normal] Run: Nab Rappy Capture I
+[Hard] Defeat: Marda Toccata
+[Hard] Run: Kuron Exploration
+[VHard] Collect: Digg Leg Horns II
+[VHard] Defeat: Blutorbon
+[SHard] Collect: Dingell Arms
+[SHard] Run: Sub. Tunnels Exploration
+Harvest: Kuron Lotus
+Catch: Lillipa Shell
+[BQuest] Defeat: Misil Ghasud
+
+[FQuest] Defeat: Gwanahda
+[FQuest] Defeat: Mechs
+[FQuest] Defeat: Spardan A
+[Normal] Collect: Krahda Mandibles I
+[Normal] Defeat: Aginis II
+[Hard] Collect: Yede Fur I
+[Hard] Run: Distress Signal Inv. I
+[VHard] Defeat: Bal Rodos
+[VHard] Run: Naberius Advanced Marathon VH
+[SHard] Collect: Gilnach Arms
+[SHard] Defeat: Dicahda
+Catch: Forest Sweetfish
+Catch: Tunnels Mantis Shrimp
+[BQuest] Run: Buster Quest I
+
+[FQuest] Defeat: King Yede
+[FQuest] Defeat: Naberius Natives
+[FQuest] Defeat: Snow Banshee
+[Normal] Defeat: Road Roller
+[Normal] Run: Anjhadu-lili Demolition
+[Hard] Collect: Dagan Carapaces I
+[Hard] Defeat: Spardan A I
+[VHard] Collect: Wolgahda Belly Fangs I
+[VHard] Run: ARKS Search: Tundra I
+[SHard] Defeat: Vol Dragon
+[SHard] Run: Decol Malluda Subjugation
+Harvest: Tundra Green Onions
+Catch: Petit Rodos
+[BQuest] Defeat: Lanzer Valace
+
+[FQuest] Defeat: Dragonkin
+[FQuest] Defeat: Nordiransa
+[FQuest] Defeat: Quartz Dragon
+[Normal] Collect: Oodan Fur I
+[Normal] Defeat: Digg I
+[Normal] Defeat: Ghastle Dohr
+[Hard] Collect: Sadinian Dagger Pieces I
+[Hard] Run: Transformer Takedown
+[VHard] Defeat: Org Blan
+[VHard] Run: Quarry Exploration
+[SHard] Collect: Digg Eyelids
+[SHard] Defeat: Predicahda
+Catch: Ruins Shrimp
+Catch: Sanctum Fiddler Crab
+
+[FQuest] Defeat: Darkers
+[FQuest] Defeat: Kuklonahda
+[FQuest] Defeat: Zeshrayda
+[Normal] Defeat: Talvolpus
+[Normal] Run: Amduscia Marathon N
+[Hard] Collect: Gwanahda Carapaces II
+[Hard] Defeat: Bikuda Rabitta
+[VHard] Collect: Cyclonehda Horns I
+[VHard] Run: Skyscape Exploration I
+[SHard] Defeat: Solda Kapita
+[SHard] Run: Seabed Exploration
+Harvest: Cave Pumpkins
+Catch: Little Zakuri
+[BQuest] Run: Buster Quest III
+
+[FQuest] Defeat: Dirandal
+[FQuest] Defeat: Dragon Ex
+[FQuest] Defeat: Dragonkin
+[Normal] Collect: Road Roller Roller
+[Normal] Run: Cargo Recovery: Desert
+[Hard] Defeat: Orota Biketta
+[VHard] Defeat: De Malmoth I
+[VHard] Collect: Breeahda Wings I
+[SHard] Collect: Blue Blutorbon Shells
+[SHard] Run: Forest Exploration
+Harvest: Facility Mint
+Catch: Naberius Turtle
+[BQuest] Defeat: Misil Ghasud
+Run: Las Vegas Exploration
+
+[FQuest] Defeat: Bal Rodos
+[FQuest] Defeat: Luda Sorcerer
+[FQuest] Defeat: Oceanids
+[Normal] Collect: V. Dragon Claws II
+[Normal] Defeat: Iza-ogar
+[Hard] Collect: Baridran Scales II
+[Hard] Run: Lillipa Marathon H
+[VHard] Defeat: Bal Rodos
+[VHard] Run: Mech Power Survey: Quarry
+[SHard] Defeat: Vegas Illusia II
+[SHard] Collect: Yede Fists
+Catch: Shironian Carp
+Catch: Skyscape Kelp
+[BQuest] Run: Buster Quest I
+
+[FQuest] Defeat: Blu Ringahda
+[FQuest] Defeat: Jagd Dingell
+[FQuest] Defeat: Mechs
+[Normal] Defeat: Bonta Bearadda
+[Normal] Run: Tokyo Exploration
+[Hard] Collect: Gulf Fangs II
+[Hard] Defeat: Paji-gowan
+[VHard] Collect: Quartz Dragon Fangs I
+[VHard] Run: Polluter Destruction I
+[SHard] Defeat: Luda Sorcerer
+[SHard] Run: Quarry Exploration
+Harvest: Coast Olives
+Catch: Tunnels Eagle Ray
+[BQuest] Defeat: Lanzer Valace
+
+[FQuest] Defeat: Biol Meduna
+[FQuest] Defeat: Oceanids
+[FQuest] Defeat: Vid Gilos
+[Normal] Collect: Oodan Fur II
+[Normal] Run: Facility Exploration
+[Hard] Defeat: Bonta Bakuta
+[Hard] Run: Naberius Beginner Marathon H
+[VHard] Collect: Fangulfur Claws I
+[VHard] Defeat: Sevanian
+[SHard] Collect: Dingell Arms
+[SHard] Run: Skyscape Exploration
+Harvest: Tokyo Soybeans
+Catch: Sanctum Nautilus
+[BQuest] Run: Buster Quest II
+
+[FQuest] Defeat: Anushi-zagri
+[FQuest] Defeat: Gigur Gunne-gam
+[FQuest] Defeat: Kuronites
+[Normal] Collect: El Ahda Wings I
+[Normal] Defeat: Garongo I
+[Normal] Defeat: Ghastle Dohr
+[Hard] Collect: Yede Fur II
+[Hard] Run: Subdue Caterdra'nsa
+[VHard] Defeat: Dahgash II
+[VHard] Run: Coast Exploration
+[SHard] Collect: Dinian Hide
+[SHard] Defeat: Dagan
+Catch: Kuron Firefly Squid
+Catch: Vegas Lobster
+
+[FQuest] Defeat: Nepto Cassadora
+[FQuest] Defeat: Oceanids
+[FQuest] Defeat: Rheo Madullard
+[Normal] Defeat: Snake Helicopter
+[Normal] Run: Shironia Exploration
+[Hard] Collect: Gwanahda Carapaces I
+[Hard] Defeat: Juggler Pierrot
+[VHard] Collect: Quartz Dragon Fangs I
+[VHard] Run: Ruins Exploration I
+[SHard] Defeat: Snow Banther
+[SHard] Run: Ruins Exploration
+Harvest: Seabed Shallots
+Catch: Earth Shell
+[BQuest] Run: Buster Quest III
+
+[FQuest] Defeat: Guar Zigmorde
+[FQuest] Defeat: Kuronites
+[FQuest] Defeat: Oro-ogar
+[Normal] Collect: Nordiran Tails I
+[Normal] Run: Kartargot Extermination
+[Hard] Defeat: Guardine I
+[Hard] Run: Mobile Fortress Destruction 
+[VHard] Defeat: Dragon Ex
+[VHard] Collect: Digg Leg Horns I
+[SHard] Collect: Deegalla Wings
+[SHard] Run: Forest Exploration
+Harvest: Skyscape Beans
+Catch: Vegas Jaws
+[BQuest] Defeat: Misil Ghasud
+
+[FQuest] Defeat: Phantoms
+[FQuest] Defeat: T. Rex
+[FQuest] Defeat: Train Ghidoran
+[Normal] Defeat: Nepto Cassadora
+[Normal] Collect: Krahda Mandibles II
+[Hard] Collect: Yede Fur II
+[Hard] Run: Subdue Org Blan
+[VHard] Defeat: Bal Rodos
+[VHard] Run: Lillipa Marathon VH
+[SHard] Collect: Beautiful Aginis Crests
+[SHard] Defeat: Ga Wonda
+Harvest: Tunnels Mushrooms
+Catch: Tundra Herring
+[BQuest] Run: Buster Quest I
+
+[FQuest] Defeat: Phantoms
+[FQuest] Defeat: U.F.O
+[FQuest] Defeat: Vegas Illusia
+[Normal] Defeat: Rheo Madullard
+[Normal] Run: Anjhadu-lili Demolition
+[Hard] Defeat: Guar Zigmorde
+[Hard] Collect: Godoni-agari Bells
+[VHard] Collect: Gilnach Chest Armor II
+[VHard] Run: Coastal Ecological Survey
+[SHard] Defeat: Tag Sevanian
+[SHard] Run: Quarry Exploration
+Catch: Cave Arowanas
+Catch: Facility Squid
+[BQuest] Defeat: Lanzer Valace
+
+[FQuest] Defeat: Garongo
+[FQuest] Defeat: Naberius Natives
+[FQuest] Defeat: Rockbear
+[Normal] Collect: Za Oodan Thorns II
+[Normal] Run: Shironia Exploration
+[Hard] Defeat: Launcher Neon
+[Hard] Run: Codotta Idetta Sub.
+[VHard] Defeat: Decol Malluda
+[VHard] Collect: Digg Leg Horns I
+[SHard] Collect: Tag Aqulupus Claws
+[SHard] Run: Forest Exploration
+Catch: Seabed Oyster
+Catch: Shironian Salamander
+[BQuest] Run: Buster Quest II
+
+[FQuest] Defeat: Dragonkin
+[FQuest] Defeat: Nordiran
+[FQuest] Defeat: Vol Dragon
+[Normal] Collect: Zombie Necktie
+[Normal] Defeat: Digg II
+[Normal] Defeat: Ghastle Dohr
+[Hard] Collect: Windira Scales I
+[Hard] Run: Kuron Exploration
+[VHard] Defeat: Vardha Soma
+[VHard] Run: ARKS Search: Tundra I
+[SHard] Defeat: Big Vardha
+[SHard] Collect: Spar Chips
+Harvest: Desert Pepper
+Catch: Quarry Cutlass
+
+[FQuest] Defeat: Gwanahda
+[FQuest] Defeat: Mechs
+[FQuest] Defeat: Spardan A
+[Normal] Defeat: Banoridian
+[Normal] Run: Naberius Advanced Marathon N
+[Hard] Collect: Dagan Carapaces I
+[Hard] Defeat: Oodan I
+[VHard] Collect: Quartz Dragon Fangs II
+[VHard] Run: Coast Exploration
+[SHard] Defeat: Gu Wonda
+[SHard] Run: Quarry Exploration
+Harvest: Vegas Lettuce
+Catch: Kuron Wrasse
+[BQuest] Run: Buster Quest III
+
+[FQuest] Defeat: King Yede
+[FQuest] Defeat: Naberius Natives
+[FQuest] Defeat: Snow Banshee
+[Normal] Collect: Sil Dinian Scales I
+[Normal] Run: Subdue Rheo Madullard
+[Hard] Defeat: King Yede I
+[Hard] Run: Distress Signal Inv. I
+[VHard] Collect: Aginis Tail Feathers I
+[VHard] Defeat: Talobecko
+[SHard] Collect: Wolgahda Kneecaps
+[SHard] Run: Desert Exploration
+Catch: Amduscia Coral
+Catch: Skyscape Oarfish
+[BQuest] Defeat: Misil Ghasud
+
+[FQuest] Defeat: Big Vardha
+[FQuest] Defeat: Mechs
+[FQuest] Defeat: Signo Beat
+[Normal] Collect: Iza-ogar Horns
+[Normal] Defeat: Ado-ogar
+[Hard] Collect: S. Banther Claws I
+[Hard] Run: Mobile Fortress Destruction 
+[VHard] Defeat: Bal Rodos
+[VHard] Run: Skyscape Exploration I
+[SHard] Collect: Yede Fists
+[SHard] Defeat: Dicahda
+Harvest: Red Meat
+Catch: Desert Flounder
+[BQuest] Run: Buster Quest I
+
+            [ 6-8-2018 ]
+[FQuest] Defeat: Dragonkin
+[FQuest] Defeat: Nordiransa
+[FQuest] Defeat: Quartz Dragon
+[Normal] Defeat: Road Roller
+[Normal] Run: Cargo Recovery: Desert
+[Hard] Collect: Garongo Molars I
+[Hard] Defeat: Dullahan Rider
+[VHard] Collect: Quartz Dragon Fangs I
+[VHard] Run: Mech Power Survey: Quarry
+[SHard] Defeat: Quartz Dragon
+[SHard] Run: Sanctum Exploration
+Harvest: Forest Tomato
+Harvest: Shironian Sprouts
+[BQuest] Defeat: Lanzer Valace
+
+[FQuest] Defeat: Darkers
+[FQuest] Defeat: Kuklonahda
+[FQuest] Defeat: Zeshrayda
+[Normal] Collect: Sil Dinian Scales I
+[Normal] Run: Facility Exploration
+[Hard] Defeat: U.F.O
+[Hard] Run: Lillipa Marathon H
+[VHard] Defeat: Goronzoran
+[VHard] Collect: Aginis Tail Feathers II
+[SHard] Collect: Talobecko Beaks
+[SHard] Run: Sub. Tunnels Exploration
+Catch: Coast Clam
+Catch: Little Meduna
+[BQuest] Run: Buster Quest II
+
+[FQuest] Defeat: Dirandal
+[FQuest] Defeat: Dragon Ex
+[FQuest] Defeat: Dragonkin
+[Normal] Collect: El Ahda Wings II
+[Normal] Defeat: Garongo II
+[Normal] Defeat: Ghastle Dohr
+[Hard] Collect: Windira Scales I
+[Hard] Run: Codotta Idetta Sub.
+[VHard] Defeat: Dirandal
+[VHard] Run: Polluter Destruction I
+[SHard] Defeat: Train Ghidoran
+[SHard] Collect: Sharp Garongo Claws
+Catch: Empty Can
+Catch: Tundra Clione
+
+[FQuest] Defeat: Bal Rodos
+[FQuest] Defeat: Luda Sorcerer
+[FQuest] Defeat: Oceanids
+[Normal] Defeat: Lanz Vareda
+[Normal] Run: Shironia Exploration
+[Hard] Defeat: Vegas Illusia I
+[Hard] Collect: Fordoran Manes I
+[VHard] Collect: Cyclonehda Horns II
+[VHard] Run: Quarry Exploration
+[SHard] Defeat: Gul Solda
+[SHard] Run: Decol Malluda Subjugation
+Harvest: Ruins Grapes
+Harvest: Sanctum Radish
+[BQuest] Run: Buster Quest III
+
+[FQuest] Defeat: Blu Ringahda
+[FQuest] Defeat: Jagd Dingell
+[FQuest] Defeat: Mechs
+[Normal] Collect: Nordiran Tails II
+[Normal] Run: Tokyo Exploration
+[Hard] Defeat: Rockbear I
+[Hard] Run: Subdue Caterdra'nsa
+[VHard] Collect: Fangulfur Claws II
+[VHard] Defeat: Gilnas I
+[SHard] Collect: Blumegalla Flowers
+[SHard] Run: Volcanic Caverns Exploration
+Harvest: Marbled Meat
+Catch: Caves Mussels
+[BQuest] Defeat: Misil Ghasud
+
+[FQuest] Defeat: Biol Meduna
+[FQuest] Defeat: Oceanids
+[FQuest] Defeat: Vid Gilos
+[Normal] Collect: Pitta Wadda Rings
+[Normal] Defeat: Pitta Wadda
+[Hard] Collect: Malmoth Hooves I
+[Hard] Run: Subdue Caterdra'n I
+[VHard] Defeat: Bal Rodos
+[VHard] Run: Amduscia Marathon VH
+[SHard] Defeat: Zeshrayda
+[SHard] Collect: Spar Chips
+Catch: Lillipa Shell
+Catch: Wopal Shark
+[BQuest] Run: Buster Quest I
+
+[FQuest] Defeat: Anushi-zagri
+[FQuest] Defeat: Gigur Gunne-gam
+[FQuest] Defeat: Kuronites
+[Normal] Defeat: Schilt Grimian
+[Normal] Run: Kartargot Extermination
+[Hard] Collect: Garongo Molars II
+[Hard] Defeat: Sparzyle I
+[VHard] Collect: Wolgahda Belly Fangs II
+[VHard] Run: Seabed Ecological Survey
+[SHard] Defeat: Predicahda
+[SHard] Run: Decol Malluda Subjugation
+Harvest: Kuron Lotus
+Catch: Forest Sweetfish
+[BQuest] Defeat: Lanzer Valace
+
+[FQuest] Defeat: Nepto Cassadora
+[FQuest] Defeat: Oceanids
+[FQuest] Defeat: Rheo Madullard
+[Normal] Collect: Sol Dinian Fangs I
+[Normal] Run: Nab Rappy Capture I
+[Hard] Defeat: Itagi-zakri
+[Hard] Run: Subdue Org Blan
+[VHard] Defeat: Org Blan
+[VHard] Collect: Digg Leg Horns I
+[SHard] Collect: Vid Gilos Fins
+[SHard] Run: Tundra Exploration
+Harvest: Tundra Green Onions
+Catch: Tunnels Mantis Shrimp
+[BQuest] Run: Buster Quest II
+
+[FQuest] Defeat: Guar Zigmorde
+[FQuest] Defeat: Kuronites
+[FQuest] Defeat: Oro-ogar
+[Normal] Collect: N. Rappy Feathers I
+[Normal] Defeat: Ghastle Dohr
+[Normal] Defeat: Paji-ghiry
+[Hard] Collect: Tranmizer Claws I
+[Hard] Run: Transformer Takedown
+[VHard] Defeat: Devil's Trailer II
+[VHard] Run: Coastal Ecological Survey
+[SHard] Defeat: Vol Dragon
+[SHard] Collect: Sharp Garongo Claws
+Catch: Model Ship
+Catch: Petit Rodos
+
+
+DONE 
